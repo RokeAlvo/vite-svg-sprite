@@ -1,0 +1,13 @@
+{
+  "name": "rollup-plugin-svg-sprite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "rokealvo",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^2.40.0"
+  },
+  "scripts": {
+    "build": "rollup --config"
+  }
+}
